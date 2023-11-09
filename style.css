@@ -1,0 +1,27 @@
+
+.josh {
+    margin: 20px;
+    margin-left: 0px;
+
+    }
+.josh:hover {
+
+    background-color: pink;
+    transition: background-color 1s;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    background-color: white;
+}
+
+h1:hover {
+
+    color: red;
+    transition: color 1s;
+
+}
